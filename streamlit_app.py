@@ -11,4 +11,4 @@ import re
 import streamlit as st
 
 
-회사명을 입력해 주세요.
+'회사명을 입력해 주세요.'
